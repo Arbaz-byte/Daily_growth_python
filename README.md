@@ -1,11 +1,10 @@
-# 🧠 Data Science Learning Journey
-
-Daily hands-on practice with Python, NumPy, Pandas, and more.
-
-## 📅 Days
+### 📅 Days
 
 - [Day 1: NumPy Essentials](day1.md)
-- Day 2: Coming soon
+- [Day 2: NumPy linalg](day2.md)
 - Day 3: Coming soon
 
-## 📂 Repo Structure
+## 🏁 Progress
+- [x] Day 1 – NumPy essentials
+- [x] Day 2 – NumPy linalg (determinant, inverse, eigenvalues, singularity)
+- [ ] Day 3 – Pandas basics
