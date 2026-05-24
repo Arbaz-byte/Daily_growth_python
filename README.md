@@ -4,7 +4,8 @@
 - [Day 3: Vectors & Matrices (Visualisation)](day3.md)
 - [Day 4: Gaussian Elimination](day4.md)
 - [Day 5: LU Decomposition](day5.md)
-- Day 6: Coming soon
+- [Day 6: Eigenvalues & Eigenvectors](day6.md)
+- Day 7: Coming soon
 
 ## 🏁 Progress
 - [x] Day 1 – NumPy essentials
@@ -12,4 +13,5 @@
 - [x] Day 3 – Vectors & matrices visualisation
 - [x] Day 4 – Gaussian elimination
 - [x] Day 5 – LU decomposition
-
+- [x] Day 6 – Eigenvalues & eigenvectors
+- [ ] Day 7 – SVD & PCA
