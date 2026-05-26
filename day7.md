@@ -1,7 +1,7 @@
 # Day 7 – SVD & PCA + Consolidation (In Progress)
 
-**Date:** 2026-05-25  
-**Status:** ⚠️ Notebook will be completed tomorrow (2026-05-26) to ensure deep understanding.
+**Date:** 2026-05-26  
+**Status:** ⚠️ Notebook will be completed tomorrow (2026-05-27) to ensure deep understanding.
 
 ## Planned Tasks (to be implemented in `07_svd_image_compression.ipynb`)
 
@@ -16,6 +16,6 @@
 The SVD & PCA topic requires a thorough grasp of linear algebra fundamentals. Instead of rushing an incomplete implementation, I've decided to dedicate tomorrow to a focused, high‑quality notebook. This will ensure the final work is portfolio‑ready and demonstrates real understanding.
 
 ## Completion ETA
-**2026-05-26** – Notebook will be committed and pushed by end of day.
+**2026-05-27** – Notebook will be committed and pushed by end of day.
 
 
