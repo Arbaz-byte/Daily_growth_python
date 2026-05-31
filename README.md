@@ -1,19 +1,32 @@
-## 📅 Days
-- [Day 1: NumPy Essentials](day1.md)
-- [Day 2: NumPy linalg](day2.md)
-- [Day 3: Vectors & Matrices (Visualisation)](day3.md)
-- [Day 4: Gaussian Elimination](day4.md)
-- [Day 5: LU Decomposition](day5.md)
-- [Day 6: Eigenvalues & Eigenvectors](day6.md)
-- [Day 7: SVD & PCA (in progress – notebook due 2026-05-26)](day7.md)
+# 🧠 Data Science Learning Journey
 
-## 🏁 Progress
-- [x] Day 1 – NumPy essentials
-- [x] Day 2 – NumPy linalg
-- [x] Day 3 – Vectors & matrices visualisation
-- [x] Day 4 – Gaussian elimination
-- [x] Day 5 – LU decomposition
-- [x] Day 6 – Eigenvalues & eigenvectors
-- [~] Day 7 – SVD & PCA (delayed to 2026-05-26 for quality)
+Daily hands-on practice with Python, NumPy, SciPy, Pandas, and linear algebra fundamentals.
 
-> **Note:** Day 7 notebook will be completed tomorrow. The placeholder `day7.md` outlines the planned tasks and the reason for the one‑day slip. Transparency and quality over rushed delivery.
+## 📅 7‑Day Sprint Overview
+
+| Day | Topic | Key Concepts |
+|-----|-------|---------------|
+| 1 | NumPy Essentials | Arrays, broadcasting, vectorized operations, basic statistics |
+| 2 | NumPy linalg | Matrix operations, determinants, inverses, solving linear systems |
+| 3 | Vectors & Matrices (Visualisation) | Vector projections, matrix transformations, 2D/3D plotting |
+| 4 | Gaussian Elimination | Row echelon form, back substitution, solving Ax = b |
+| 5 | LU Decomposition | Factorization, forward/back substitution, efficiency |
+| 6 | Eigenvalues & Eigenvectors | Characteristic equation, diagonalization, applications |
+| 7 | SVD & PCA (Image Compression) | Singular value decomposition, low‑rank approximation, image compression |
+
+
+Each day’s markdown file contains:
+- 🎯 Learning objecives
+- 📝 Code examples (Python + NumPy/SciPy)
+- ✅ Practice exercises
+- 🔍 Real‑world applications
+
+
+## 🖼️ Day 7 Highlight: SVD Image Compression
+
+- Decompose any image into **U, Σ, V^T**
+- Keep only the top *k* singular values to reconstruct a compressed version
+- Observe the trade‑off between storage size and visual quality
+- Extension: deploy an interactive web app (Streamlit) that lets users upload an image and choose *k*.
+
+
